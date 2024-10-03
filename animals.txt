@@ -1,0 +1,5 @@
+Kervor - cat
+Richik - dog
+Markus - spider
+Lenta - snake
+Sigrid - lizard
